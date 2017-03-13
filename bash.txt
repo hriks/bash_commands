@@ -1,0 +1,3 @@
+cut -c1
+cut -c4,6
+cut -c-
